@@ -1,0 +1,17 @@
+{
+    "name": "913groups/helpapy",
+    "description": "un utilitaire pour mes methodes que j'utilise tout le temps",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Groups913\\Helpapy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "913groups",
+            "email": "913groups@gmail.com"
+        }
+    ],
+    "require": {}
+}
