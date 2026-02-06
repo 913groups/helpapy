@@ -3,6 +3,7 @@
 namespace Groups913\Helpapy;
 
 use Groups913\Helpapy\helper\DateTrait;
+use Groups913\Helpapy\helper\GeneratorTrait;
 use Groups913\Helpapy\helper\MoneyTrait;
 use Groups913\Helpapy\helper\SecurityTrait;
 
@@ -14,5 +15,5 @@ class Helpapy
     use DateTrait;
     use MoneyTrait;
     use SecurityTrait;
-
+    use GeneratorTrait;
 }

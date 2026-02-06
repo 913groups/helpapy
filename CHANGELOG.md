@@ -3,6 +3,10 @@
 Le format est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/),
 et ce projet adhère au [Versionnage Sémantique](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2026-02-06
+### Ajouté
+- Support la methode **GENERATORMATRICULE** (pour generer un numero matricule pour une application)
+
 ## [1.0.0] - 2026-02-04
 ### Ajouté
 - Version initiale du package.
